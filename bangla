@@ -19,9 +19,22 @@ http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
 http://10.16.100.204/hls/akash_aath_720.m3u8
 #EXTINF:-1, Asian Tv
 http://10.16.100.203:8082/bangla/tv_asian.m3u8
-#EXTINF:-1, Ekattor
-http://10.16.100.205/hls/ekattor_hd_720.m3u8-
-#EXTINF:-1, NEWS24
-http://10.16.100.203:8082/bangla/24newshd_720.m3u8
 #EXTINF:-1, Somoy Tav
 http://10.16.100.205/hls/somoy_tv.m3u8
+#EXTINF:0,Zee Bangla SD 
+http://103.205.133.50/hls/zeebangla.m3u8
+#EXTINF:0,News 24 HD
+#EXTGRP:unsorted
+http://103.214.202.218:8081/live/news24-24/chunks.m3u8
+#EXTINF:0,Ekattor TV HD
+#EXTGRP:unsorted
+http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
+#EXTINF:0,ATN News
+#EXTGRP:unsorted
+http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
+#EXTINF:0,Independent TV
+#EXTGRP:unsorted
+http://103.214.202.218:8081/live/independent/chunks.m3u8
+#EXTINF:0,3_Jamuna TV
+#EXTGRP:unsorted
+http://103.214.202.218:8081/live/jamuna/chunks.m3u8
