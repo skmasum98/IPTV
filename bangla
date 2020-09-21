@@ -35,6 +35,9 @@ http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
 #EXTINF:0,Independent TV
 #EXTGRP:unsorted
 http://103.214.202.218:8081/live/independent/chunks.m3u8
-#EXTINF:0,3_Jamuna TV
+#EXTINF:0,Jamuna TV
 #EXTGRP:unsorted
 http://103.214.202.218:8081/live/jamuna/chunks.m3u8
+#EXTINF:0,Channel I
+#EXTGRP:unsorted
+https://edge4.bioscopelive.com:443/hls/anonymous/o6NJjVnDzUA_QNWww_ZtZg/1600695029/channel_i_hi/index.m3u8
