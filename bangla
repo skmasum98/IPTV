@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1, Channel-24
+http://10.16.100.203:8082/bangla/channel24.m3u8
+#EXTINF:-1, Somoy
+http://10.16.100.203:8082/bangla/somoy.m3u8
+#EXTINF:-1, gazi
+http://10.16.100.241/exthls/GAZITV.m3u8
+#EXTINF:-1, masranga-tv 
+http://10.16.100.203:8082/bangla/MAASRANGATV.m3u8
+#EXTINF:-1, CHANNEL I 
+http://10.16.100.203:8082/bangla/channeli.m3u8
+#EXTINF:-1,DBC 
+http://10.16.100.203:8082/bangla/dbcnews.m3u8
+#EXTINF:-1, Gazi Tv 
+http://10.16.100.241/exthls/GAZITV.m3u8
+#EXTINF:-1,MAASRANGATV
+http://10.16.100.203:8082/bangla/MAASRANGATV.m3u8
+#EXTINF:-1, Jamunatv 
+http://10.16.100.203:8082/bangla/jamunatv.m3u8
+#EXTINF:-1, Independent #
+http://10.16.100.203:8082/bangla/independent.m3u8
+#EXTINF:-1, Ekatoortv #
+http://10.16.100.203:8082/bangla/ekatoortv.m3u8
+#EXTINF:-1,DG-24 #
+http://10.16.100.203:8082/bangla/digibangla24.m3u8
+#EXTINF:-1, DeshTV #
+http://10.16.100.203:8082/bangla/desh.m3u8
+#EXTINF:-1, CHANNEL-9 
+http://10.16.100.203:8082/bangla/CHANNEL9.m3u8
+#EXTINF:-1, Boishakhi 
+http://10.16.100.203:8082/bangla/boisakhi.m3u8
+#EXTINF:-1, Bijoy TV #
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
+#EXTINF:-1, banglavision 
+http://10.16.100.203:8082/bangla/banglavision.m3u8
+#EXTINF:-1, এটিএন news
+http://10.16.100.203:8082/bangla/atnnewslondon.m3u8
+#EXTINF:-1, Atn bangla 
+http://10.16.100.203:8082/bangla/atnbangla.m3u8
+#EXTINF:-1, Asian Tv
+http://10.16.100.203:8082/bangla/asian.m3u8
+#EXTINF:-1, My TV 
+http://10.16.100.203:8082/bangla/mytv.m3u8
+#EXTINF:-1, NTV 
+http://10.16.100.203:8082/bangla/ntv.m3u8
+#EXTINF:-1, Nagorik 
+http://10.16.100.203:8082/bangla/nagorik.m3u8
+#EXTINF:-1, RTV 
+http://10.16.100.203:8082/bangla/rtv.m3u8
+#EXTINF:-1, ETV 
+http://10.16.100.203:8082/bangla/ekusheytv.m3u8
+#EXTINF:-1, ZEE BANGLA HD #
+http://10.16.100.203:8082/bangla/zeebangla_hd.m3u8
+#EXTINF:-1, ZEE BANGLA 
+http://10.16.100.203:8082/bangla/zbangla.m3u8
+#EXTINF:-1,STAR Jalsha 
+http://10.16.100.203:8082/bangla/STARJALSHA.m3u8
+#EXTINF:-1, Zeebanglacinema
+http://10.16.100.203:8082/bangla/zeebangla_cinema.m3u8
+#EXTINF:-1, Jalsha Movies 
+http://103.85.196.10:8080/hls/three.m3u8
+#EXTINF:-1, Colorsbangla 
+http://10.16.100.203:8082/bangla/colorsbangla.m3u8
+#EXTINF:-1,Sonyaath 
+http://10.16.100.203:8082/bangla/sonyaath.m3u8
+#EXTINF:-1,Sonyaath 
+http://103.85.196.10:8080/hls/fifteen.m3u8
+#EXTINF:-1, Sangeetbangla 
+http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
