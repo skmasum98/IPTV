@@ -18,4 +18,6 @@ http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
 #EXTINF:-1, Akash Aath
 http://10.16.100.204/hls/akash_aath_720.m3u8
 #EXTINF:-1, Asian Tv
-http://10.16.100.204/asiantv.m3u8
+http://10.16.100.203:8082/bangla/tv_asian.m3u8
+#EXTINF:-1, Asian Tv
+http://10.16.100.203:8082/bangla/tv_asian.m3u8
