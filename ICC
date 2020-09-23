@@ -51,6 +51,8 @@ http://10.16.100.207:8082/sports/peacetv.m3u8
 http://10.16.100.204/hls/alja-zeera.m3u8
 #EXTINF:0, Gaan Bangla
 http://10.16.100.205/hls/gaanbangla_ctg.m3u8
+#EXTINF:0, Dhoom music
+http://10.16.100.201/hindi/dhoom_music.m3u8
 #EXTINF:0, Star Sports2
 http://10.16.100.207:8082/sports/starsports2.m3u8
 #EXTINF:0, Star Sports
