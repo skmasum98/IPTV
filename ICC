@@ -43,4 +43,6 @@ http://10.16.100.203:8082/bangla/TV_R.m3u8
 http://10.16.100.205/hls/somoy_tv.m3u8
 #EXTINF:0, MY TV
 http://10.16.100.205/hls/my_tv_720.m3u8
+#EXTINF:0, Duronto
+http://10.16.100.201/hindi/duronto_720_cm.m3u8
 
