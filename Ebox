@@ -27,7 +27,8 @@ http://tv.ebox.live:8080/live/colors-bangla.m3u8
 http://tv.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:0, Zee Bangla
 http://tv.ebox.live:8080/live/zee-bangla.m3u8
-#EXTINF:0, 
+#EXTINF:0, Star Movie
+http://tv.ebox.live:8080/live/star-movies.m3u8
 #EXTINF:0, 
 #EXTINF:0, 
 #EXTINF:0, 
