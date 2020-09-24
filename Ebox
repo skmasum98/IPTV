@@ -15,12 +15,14 @@ http://tv.ebox.live:8080/live/rtv.m3u8
 http://tv.ebox.live:8080/live/ex-boishakhi.m3u8
 #EXTINF:0, Channel I
 http://tv.ebox.live:8080/live/ex-chi.m3u8
-
+#EXTINF:0, News 24
+http://tv.ebox.live:8080/live/ex-news24-20.m3u8
+#EXTINF:0, Dbc news
+http://tv.ebox.live:8080/live/dbc.m3u8
+#EXTINF:0, Atn News
+http://tv.ebox.live:8080/live/ex-atnae.m3u8
 #EXTINF:0, 
 
-#EXTINF:0, 
-#EXTINF:0, 
-#EXTINF:0, 
 #EXTINF:0, 
 #EXTINF:0, 
 #EXTINF:0, 
