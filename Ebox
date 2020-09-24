@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0, Jamuna Tv
 http://tv.ebox.live:8080/live/ex-jamuna.m3u8
-#EXTINF:0, 
-
+#EXTINF:0, Channel24
+http://tv.ebox.live:8080/live/ch24s1.m3u8
 #EXTINF:0, 
 
 
