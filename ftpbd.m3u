@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:0, 1
+#EXTINF:0, Channel 9
 http://otv.ftpbd.net/streams/102/index.m3u8
+#EXTINF:0, Deepto
+http://otv.ftpbd.net/streams/103/index.m3u8
