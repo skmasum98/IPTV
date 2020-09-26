@@ -17,7 +17,6 @@ http://otv.ftpbd.net/streams/108/index.m3u8
 http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:0, 10
 http://otv.ftpbd.net/streams/110/index.m3u8
-
 #EXTINF:0, 11
 http://otv.ftpbd.net/streams/111/index.m3u8
 #EXTINF:0, 12
@@ -36,10 +35,6 @@ http://otv.ftpbd.net/streams/117/index.m3u8
 http://otv.ftpbd.net/streams/118/index.m3u8
 #EXTINF:0, 19
 http://otv.ftpbd.net/streams/119/index.m3u8
-#EXTINF:0, 20
-http://otv.ftpbd.net/streams/120/index.m3u8
-
-#EXTM3U
 #EXTINF:0, 22
 http://otv.ftpbd.net/streams/122/index.m3u8
 #EXTINF:0, 23
@@ -52,28 +47,7 @@ http://otv.ftpbd.net/streams/125/index.m3u8
 http://otv.ftpbd.net/streams/126/index.m3u8
 #EXTINF:0, 27
 http://otv.ftpbd.net/streams/127/index.m3u8
-#EXTINF:0, 28
-http://otv.ftpbd.net/streams/128/index.m3u8
-#EXTINF:0, 29
-http://otv.ftpbd.net/streams/129/index.m3u8
-#EXTINF:0, 30
-http://otv.ftpbd.net/streams/130/index.m3u8
-
-#EXTINF:0, 31
-http://otv.ftpbd.net/streams/131/index.m3u8
-#EXTINF:0, 32
-http://otv.ftpbd.net/streams/132/index.m3u8
-#EXTINF:0, 33
-http://otv.ftpbd.net/streams/133/index.m3u8
-#EXTINF:0, 34
-http://otv.ftpbd.net/streams/134/index.m3u8
-#EXTINF:0, 1?35
-http://otv.ftpbd.net/streams/135/index.m3u8
-#EXTINF:0, 36
-http://otv.ftpbd.net/streams/136/index.m3u8
-#EXTINF:0, 37
-http://otv.ftpbd.net/streams/137/index.m3u8
-#EXTINF:0, 38
-http://otv.ftpbd.net/streams/138/index.m3u8
-#EXTINF:0, 39
-http://otv.ftpbd.net/streams/139/index.m3u8
+#EXTINF:0, 20
+http://otv.ftpbd.net/streams/120/index.m3u8
+#EXTINF:0, 21
+http://otv.ftpbd.net/streams/121/index.m3u8
