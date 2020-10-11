@@ -1,3 +1,38 @@
 #EXTM3U
-#EXTINF:-1, Sony Aath
+#EXTINF:-1,1 Sony Aath
 http://103.205.133.50/hls/sony8.m3u8
+#EXTINF:-1, 2 Zee bangla
+http://103.205.133.50/hls/zeebangla.m3u8
+#EXTINF:-1, 3 Star Jalsha
+
+#EXTINF:-1, 4 Color Bangla
+
+#EXTINF:-1, 5 Jalsha Movies
+
+#EXTINF:-1, 6 Zee Bangla Movies
+
+#EXTINF:-1, 7 Ekattor 
+
+#EXTINF:-1, 8 DBC News
+
+#EXTINF:-1, 9 Atn News
+
+#EXTINF:-1, 10 Somoy News
+
+#EXTINF:-1, 11 Independent Tv
+
+#EXTINF:-1, 12 News 24
+
+#EXTINF:-1, 14 Jamuna Tv
+
+#EXTINF:-1, 15 Apb Ananda
+
+#EXTINF:-1, 16 News
+
+#EXTINF:-1, 17 BBC
+
+#EXTINF:-1, 18 Cnn
+
+#EXTINF:-1, 19 Al jazera
+
+#EXTINF:-1, 20 Indian Times
