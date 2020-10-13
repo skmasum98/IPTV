@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,Akash Aath [IN]
-#EXTGRP:unsorted
+#EXTGRP:Indian Bangla
 https://ott.bingebd.com:443/live/ngrp:dillagi_all/playlist.m3u8
 #EXTINF:0,Alif IPTV [BD]
 #EXTGRP:unsorted
@@ -66,10 +66,10 @@ https://ott.bingebd.com:443/live/ngrp:channel_i_all/playlist.m3u8
 #EXTGRP:unsorted
 http://128.199.212.160/channelt1/1080/index.m3u8?@amarnettv.live
 #EXTINF:0,Colors Bangla HD [IN]
-#EXTGRP:unsorted
+#EXTGRP:Indian Bangla
 https://ott.bingebd.com:443/live/ngrp:colors_bangla_hd_all/playlist.m3u8
 #EXTINF:0,Colors Bangla SD [IN] (1)
-#EXTGRP:unsorted
+#EXTGRP:Indian Bangla
 http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
 #EXTINF:0,Cumilla 24 IPTV [BD]
 #EXTGRP:unsorted
@@ -161,11 +161,11 @@ https://ott.bingebd.com:443/live/ngrp:sa_tv_all/playlist.m3u8
 #EXTINF:0,SOMOY TV [BD]
 #EXTGRP:unsorted
 https://ott.bingebd.com:443/live/ngrp:somoy_news_all/playlist.m3u8
-#EXTINF:0,Sony Aath [IN] (2)
-#EXTGRP:unsorted
+#EXTINF:0,Sony Aath
+#EXTGRP:Indian Bangla
 http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
-#EXTINF:0,Star Jalsha HD [IN] (1)
-#EXTGRP:unsorted
+#EXTINF:0,Star Jalsha HD
+#EXTGRP:Indian Bangla
 https://ott.bingebd.com:443/live/ngrp:star_jalsha_hd_all/playlist.m3u8
 #EXTINF:0,TBN 24 USA IPTV [BD]
 #EXTGRP:unsorted
