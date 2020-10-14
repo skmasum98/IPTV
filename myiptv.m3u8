@@ -176,3 +176,6 @@ https://ott.bingebd.com:443/live/ngrp:news_24_hd_all/playlist.m3u8
 #EXTINF:0,SOMOY TV [BD]
 #EXTGRP:News
 https://ott.bingebd.com:443/live/ngrp:somoy_news_all/playlist.m3u8
+#EXTINF:0, EKUSHEY TV
+#EXTGRP:Bangla
+http://10.16.100.203:8082/bangla/ekusheytv.m3u8
