@@ -71,82 +71,82 @@ https://ott.bingebd.com:443/live/ngrp:channel_i_all/playlist.m3u8
 #EXTINF:0,Channel T1 IPTV [BD]
 #EXTGRP:Bangla
 http://128.199.212.160/channelt1/1080/index.m3u8?@amarnettv.live
-#EXTINF:0,Colors Bangla HD [IN]
-#EXTGRP:Bangla
+#EXTINF:0,Colors Bangla HD
+#EXTGRP:Indian Bangla
 https://ott.bingebd.com:443/live/ngrp:colors_bangla_hd_all/playlist.m3u8
-#EXTINF:0,Colors Bangla SD [IN] (1)
-#EXTGRP:Bangla
+#EXTINF:0,Colors Bangla SD
+#EXTGRP:Indian Bangla
 http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
-#EXTINF:0,Cumilla 24 IPTV [BD]
+#EXTINF:0,Cumilla 24 IPTV 
 #EXTGRP:Bangla
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
-#EXTINF:0,DEEPTO TV HD [BD]
+#EXTINF:0,DEEPTO TV HD 
 #EXTGRP:Bangla
 https://ott.bingebd.com:443/live/ngrp:deepto_tv_all/playlist.m3u8
-#EXTINF:0,DESH TV [BD]
+#EXTINF:0,DESH TV 
 #EXTGRP:Bangla
 https://ott.bingebd.com/live/ngrp:ott_desh_tv_mobile/chunklist.m3u8
-#EXTINF:0,Deshe Bideshe [BD]
+#EXTINF:0,Deshe Bideshe
 #EXTGRP:Bangla
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
-#EXTINF:0,DURONTO TV [BD]
+#EXTINF:0,DURONTO TV
 #EXTGRP:Bangla
 https://ott.bingebd.com:443/live/ngrp:duronto_tv_all/playlist.m3u8
-#EXTINF:0,G Bangla IPTV [BD]
+#EXTINF:0,G Bangla IPTV 
 #EXTGRP:Bangla
 https://iptv8.raytahost.com/lite/gbangla_hi/index.m3u8
-#EXTINF:0,GAZI TV HD [BD]
+#EXTINF:0,GAZI TV HD 
 #EXTGRP:Bangla
 https://ott.bingebd.com:443/live/ngrp:gazi_tv_all/playlist.m3u8
-#EXTINF:0,INDEPENDENT TV [BD]
+#EXTINF:0,INDEPENDENT TV 
 #EXTGRP:Bangla
 https://ott.bingebd.com:443/live/ngrp:independent_tv_all/playlist.m3u8
-#EXTINF:0,Jagoroni IPTV [BD]
+#EXTINF:0,Jagoroni IPTV
 #EXTGRP:Bangla
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
-#EXTINF:0,JAMUNA TV [BD]
+#EXTINF:0,JAMUNA TV 
 #EXTGRP:Bangla
 https://ott.bingebd.com:443/live/ngrp:jamuna_tv_all/playlist.m3u8
 #EXTINF:0,Joy Jatra TV
 #EXTGRP:Bangla
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
-#EXTINF:0,Ktv bangla HD [BD]
+#EXTINF:0,Ktv bangla HD 
 #EXTGRP:Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
-#EXTINF:0,MAASRANGA TV HD [BD]
+#EXTINF:0,MAASRANGA TV HD 
 #EXTGRP:Bangla
 https://ott.bingebd.com:443/live/ngrp:maasranga_all/playlist.m3u8
-#EXTINF:0,Magic Bangla IPTV [BD]
+#EXTINF:0,Magic Bangla IPTV 
 #EXTGRP:Bangla
 http://enaniptv.com/magicbanglatv/1080/index.m3u8
-#EXTINF:0,MOHONA TV [BD]
+#EXTINF:0,MOHONA TV
 #EXTGRP:Bangla
 https://ott.bingebd.com:443/live/ngrp:mohona_tv_all/playlist.m3u8
-#EXTINF:0,MY TV HD [BD]
+#EXTINF:0,MY TV HD 
 #EXTGRP:Bangla
 https://ott.bingebd.com:443/live/ngrp:my_tv_all/playlist.m3u8
-#EXTINF:0,NAGORIK TV HD [BD]
+#EXTINF:0,NAGORIK TV HD 
 #EXTGRP:Bangla
 https://ott.bingebd.com:443/live/ngrp:nagorik_tv_all/playlist.m3u8
-#EXTINF:0,Nan IPTV [BD]
+#EXTINF:0,Nan IPTV 
 #EXTGRP:Bangla
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
-#EXTINF:0,Natun Somoy IPTV [BD]
+#EXTINF:0,Natun Somoy IPTV
 #EXTGRP:Bangla
 http://server1.jadubd.com/natunTV/natunTV/chunklist_w1287147693.m3u8
-#EXTINF:0,NOKSHI IPTV [BD]
+#EXTINF:0,NOKSHI IPTV 
 #EXTGRP:Bangla
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
-#EXTINF:0,NTV [BD]
+#EXTINF:0,NTV 
 #EXTGRP:Bangla
 https://ott.bingebd.com:443/live/ngrp:ntv_all/playlist.m3u8
-#EXTINF:0,Onubhuti IPTV [BD]
+#EXTINF:0,Onubhuti IPTV 
 #EXTGRP:Bangla
 http://149.28.147.59/live/onuvhuti/index.m3u8
-#EXTINF:0,RANG IPTV [BD]
+#EXTINF:0,RANG IPTV 
 #EXTGRP:Bangla
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
-#EXTINF:0,Royal TV [BD]
+#EXTINF:0,Royal TV
 #EXTGRP:Bangla
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
 #EXTINF:0,RTV HD [BD]
