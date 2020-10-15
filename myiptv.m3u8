@@ -169,7 +169,7 @@ https://ott.bingebd.com:443/live/ngrp:atn_news_all/playlist.m3u8
 https://ott.bingebd.com:443/live/ngrp:dbc_news_all/playlist.m3u8
 #EXTINF:0,EKATTOR TV HD [BD]
 #EXTGRP:News
-https://ott.bingebd.com:443/live/ngrp:ekattor_tv_all/playlist.m3u8
+http://tv.dflix.live:8082/11/index.m3u8
 #EXTINF:0,NEWS 24 HD [BD]
 #EXTGRP:News
 https://ott.bingebd.com:443/live/ngrp:news_24_hd_all/playlist.m3u8
