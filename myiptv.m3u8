@@ -99,8 +99,8 @@ https://iptv8.raytahost.com/lite/gbangla_hi/index.m3u8
 #EXTGRP:Bangla
 https://ott.bingebd.com:443/live/ngrp:gazi_tv_all/playlist.m3u8
 #EXTINF:0,INDEPENDENT TV 
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:independent_tv_all/playlist.m3u8
+#EXTGRP:News
+http://tv.dflix.live:8082/12/index.m3u8
 #EXTINF:0,Jagoroni IPTV
 #EXTGRP:Bangla
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
