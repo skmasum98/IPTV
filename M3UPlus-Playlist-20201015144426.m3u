@@ -1,0 +1,151 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN" tvg-logo="" group-title="Information",CN
+http://tv.dflix.live:8082/79/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic" tvg-logo="" group-title="Information",National Geographic
+http://tv.dflix.live:8082/35/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anando" tvg-logo="" group-title="Bangla",Anando
+http://tv.dflix.live:8082/16/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian Tv" tvg-logo="" group-title="Bangla",Asian Tv
+http://tv.dflix.live:8082/62/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atn Bangla" tvg-logo="" group-title="Bangla",Atn Bangla
+http://tv.dflix.live:8082/2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Talkes" tvg-logo="" group-title="Bangla",Bangla Talkes
+http://tv.dflix.live:8082/91/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Tv" tvg-logo="" group-title="Bangla",Bangla Tv
+http://tv.dflix.live:8082/19/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="" group-title="Bangla",Banglavision
+http://tv.dflix.live:8082/3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi" tvg-logo="" group-title="Bangla",Boishakhi
+http://tv.dflix.live:8082/61/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Btv" tvg-logo="" group-title="Bangla",Btv
+http://tv.dflix.live:8082/53/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="" group-title="Bangla",BTV
+http://tv.dflix.live:8082/84/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Btv sonshod" tvg-logo="" group-title="Bangla",Btv sonshod
+http://tv.dflix.live:8082/88/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel I" tvg-logo="" group-title="Bangla",Channel I
+http://tv.dflix.live:8082/6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh Tv" tvg-logo="" group-title="Bangla",Desh Tv
+http://tv.dflix.live:8082/9/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhoom music" tvg-logo="" group-title="Bangla",Dhoom music
+http://tv.dflix.live:8082/57/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushe Tv" tvg-logo="" group-title="Bangla",Ekushe Tv
+http://tv.dflix.live:8082/65/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="" group-title="Bangla",Gaan Bangla
+http://tv.dflix.live:8082/58/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="" group-title="Bangla",Gtv
+http://tv.dflix.live:8082/1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg-logo="" group-title="Bangla",Jamuna Tv
+http://tv.dflix.live:8082/13/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Machranga" tvg-logo="" group-title="Bangla",Machranga
+http://tv.dflix.live:8082/51/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mohona" tvg-logo="" group-title="Bangla",Mohona
+http://tv.dflix.live:8082/50/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My Tv" tvg-logo="" group-title="Bangla",My Tv
+http://tv.dflix.live:8082/56/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nagorik" tvg-logo="" group-title="Bangla",Nagorik
+http://tv.dflix.live:8082/59/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="" group-title="Bangla",NTV
+http://tv.dflix.live:8082/54/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="" group-title="Bangla",Rtv
+http://tv.dflix.live:8082/14/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ruposhi" tvg-logo="" group-title="Bangla",Ruposhi
+http://tv.dflix.live:8082/95/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SA TV" tvg-logo="" group-title="Bangla",SA TV
+http://tv.dflix.live:8082/15/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangit Bangla" tvg-logo="" group-title="Bangla",Sangit Bangla
+http://tv.dflix.live:8082/96/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoom" tvg-logo="" group-title="Hindi",Zoom
+http://tv.dflix.live:8082/60/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9xM" tvg-logo="" group-title="Hindi",9xM
+http://tv.dflix.live:8082/48/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Flix" tvg-logo="" group-title="Hindi",And Flix
+http://tv.dflix.live:8082/78/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Pictures" tvg-logo="" group-title="Hindi",And Pictures
+http://tv.dflix.live:8082/100/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Tv" tvg-logo="" group-title="Hindi",And Tv
+http://tv.dflix.live:8082/74/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U" tvg-logo="" group-title="Hindi",B4U
+http://tv.dflix.live:8082/45/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movie Plus" tvg-logo="" group-title="Hindi",Movie Plus
+http://tv.dflix.live:8082/97/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="" group-title="Hindi",Nick
+http://tv.dflix.live:8082/55/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OX Dhamkas" tvg-logo="" group-title="Hindi",OX Dhamkas
+http://tv.dflix.live:8082/99/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ptv World" tvg-logo="" group-title="Hindi",Ptv World
+http://tv.dflix.live:8082/92/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="" group-title="Hindi",Sony Max
+http://tv.dflix.live:8082/37/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="" group-title="Hindi",Sony Max
+http://tv.dflix.live:8082/77/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="" group-title="Hindi",Sony Pix
+http://tv.dflix.live:8082/41/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="" group-title="Hindi",Star Plus
+http://tv.dflix.live:8082/38/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="" group-title="Hindi",Star Plus
+http://tv.dflix.live:8082/67/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Action" tvg-logo="" group-title="Hindi",Zee Action
+http://tv.dflix.live:8082/90/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cafe" tvg-logo="" group-title="Hindi",Zee Cafe
+http://tv.dflix.live:8082/69/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee cinema HD" tvg-logo="" group-title="Hindi",Zee cinema HD
+http://tv.dflix.live:8082/76/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Etc" tvg-logo="" group-title="Hindi",Zee Etc
+http://tv.dflix.live:8082/46/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Tv" tvg-logo="" group-title="Hindi",Zee Tv
+http://tv.dflix.live:8082/40/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zing" tvg-logo="" group-title="Hindi",Zing
+http://tv.dflix.live:8082/93/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akash Aath" tvg-logo="" group-title="Indian Bangla",Akash Aath
+http://tv.dflix.live:8082/32/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="" group-title="Indian Bangla",Colors Bangla
+http://tv.dflix.live:8082/43/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD" tvg-logo="" group-title="Indian Bangla",Colors Bangla HD
+http://tv.dflix.live:8082/66/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movie HD" tvg-logo="" group-title="Indian Bangla",Jalsha Movie HD
+http://tv.dflix.live:8082/31/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha Hd" tvg-logo="" group-title="Indian Bangla",Star Jalsha Hd
+http://tv.dflix.live:8082/36/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cenama" tvg-logo="" group-title="Indian Bangla",Zee Bangla Cenama
+http://tv.dflix.live:8082/29/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="" group-title="Indian Bangla",Zee Bangla HD
+http://tv.dflix.live:8082/34/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aljajira" tvg-logo="" group-title="News",Aljajira
+http://tv.dflix.live:8082/89/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="" group-title="News",ATN News
+http://tv.dflix.live:8082/49/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC News" tvg-logo="" group-title="News",BBC News
+http://tv.dflix.live:8082/44/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-logo="" group-title="News",Channel 24
+http://tv.dflix.live:8082/5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC" tvg-logo="" group-title="News",DBC
+http://tv.dflix.live:8082/7/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="" group-title="News",DW
+http://tv.dflix.live:8082/85/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="" group-title="News",Ekattor
+http://tv.dflix.live:8082/11/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="" group-title="News",Independent
+http://tv.dflix.live:8082/12/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="" group-title="News",News 24
+http://tv.dflix.live:8082/18/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="" group-title="News",Somoy
+http://tv.dflix.live:8082/17/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports" tvg-logo="" group-title="Sports",PTV Sports
+http://tv.dflix.live:8082/73/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six" tvg-logo="" group-title="Sports",Sony Six
+http://tv.dflix.live:8082/24/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1" tvg-logo="" group-title="Sports",Sony Ten 1
+http://tv.dflix.live:8082/20/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2" tvg-logo="" group-title="Sports",Sony Ten 2
+http://tv.dflix.live:8082/21/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3" tvg-logo="" group-title="Sports",Sony Ten 3
+http://tv.dflix.live:8082/22/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Select 1 HD" tvg-logo="" group-title="Sports",Star Select 1 HD
+http://tv.dflix.live:8082/27/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Select 2 HD" tvg-logo="" group-title="Sports",Star Select 2 HD
+http://tv.dflix.live:8082/28/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo="" group-title="Sports",Star Sports 1 HD
+http://tv.dflix.live:8082/25/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD" tvg-logo="" group-title="Sports",Star Sports 2 HD
+http://tv.dflix.live:8082/26/index.m3u8
