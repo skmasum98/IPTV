@@ -1,181 +1,151 @@
-#EXTM3U
-#EXTINF:0,Akash Aath [IN]
-#EXTGRP:Indian Bangla
-https://ott.bingebd.com:443/live/ngrp:dillagi_all/playlist.m3u8
-#EXTINF:0,Sony Aath [IN] (2)
-#EXTGRP:Indian Bangla
-http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
-#EXTINF:0,Star Jalsha HD [IN] (1)
-#EXTGRP:Indian Bangla
-https://ott.bingebd.com:443/live/ngrp:star_jalsha_hd_all/playlist.m3u8
-#EXTINF:0,Zee Bangla HD [IN] (2)
-#EXTGRP:Indian Bangla
-https://ott.bingebd.com:443/live/ngrp:zee_bangla_all/playlist.m3u8
-#EXTINF:0,Alif IPTV [BD]
-#EXTGRP:Bangla
-http://128.199.212.160/alif/1080/index.m3u8?@amarnettv.live
-#EXTINF:0,Alpona IPTV [BD]
-#EXTGRP:Bangla
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
-#EXTINF:0,ANANDA TV HD [BD]
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:probashibangla_all/playlist.m3u8
-#EXTINF:0,Artv Network [BD]
-#EXTGRP:Bangla
-https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8
-#EXTINF:0,Bangla IPTV [BD]
-#EXTGRP:Bangla
-http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8?@amarnettv.live
-#EXTINF:0,ASIAN TV HD [BD]
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:asian_tv_all/playlist.m3u8
-#EXTINF:0,ATN BANGLA [BD]
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:atn_bangla_all/playlist.m3u8
-#EXTINF:0,Bangla 21 IPTV [BD]
-#EXTGRP:Bangla
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
-#EXTINF:0,BANGLA VISION [BD]
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:bangla_vision_all/playlist.m3u8
-#EXTINF:0,BANGLA TV HD [BD]
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:bangla_tv_all/playlist.m3u8
-#EXTINF:0,BD LIVE IPTV [BD]
-#EXTGRP:Bangla
-https://stream.mux.com/e8ustDL8hTiGTkCkE9JLpdJ5uCMcokzn.m3u8
-#EXTINF:0,BIJOY TV HD [BD]
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:bijoy_tv_all/playlist.m3u8
-#EXTINF:0,Biswa Bangla 24 TV [BD]
-#EXTGRP:Bangla
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
-#EXTINF:0,BOISHAKHI TV [BD]
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:boishakhi_tv_all/playlist.m3u8
-#EXTINF:0,BTV WORLD [BD]
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:btv_world_all/playlist.m3u8
-#EXTINF:0,Channel 23 IPTV [BD]
-#EXTGRP:Bangla
-http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
-#EXTINF:0,CHANNEL 24 [BD]
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:channel_24_all/playlist.m3u8
-#EXTINF:0,CHANNEL 9 HD [BD]
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:channel_9_all/playlist.m3u8
-#EXTINF:0,CHANNEL I HD [BD]
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:channel_i_all/playlist.m3u8
-#EXTINF:0,Channel T1 IPTV [BD]
-#EXTGRP:Bangla
-http://128.199.212.160/channelt1/1080/index.m3u8?@amarnettv.live
-#EXTINF:0,Colors Bangla HD
-#EXTGRP:Indian Bangla
-https://ott.bingebd.com:443/live/ngrp:colors_bangla_hd_all/playlist.m3u8
-#EXTINF:0,Colors Bangla SD
-#EXTGRP:Indian Bangla
-http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
-#EXTINF:0,Cumilla 24 IPTV 
-#EXTGRP:Bangla
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
-#EXTINF:0,DEEPTO TV HD 
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:deepto_tv_all/playlist.m3u8
-#EXTINF:0,DESH TV 
-#EXTGRP:Bangla
-https://ott.bingebd.com/live/ngrp:ott_desh_tv_mobile/chunklist.m3u8
-#EXTINF:0,Deshe Bideshe
-#EXTGRP:Bangla
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
-#EXTINF:0,DURONTO TV
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:duronto_tv_all/playlist.m3u8
-#EXTINF:0,G Bangla IPTV 
-#EXTGRP:Bangla
-https://iptv8.raytahost.com/lite/gbangla_hi/index.m3u8
-#EXTINF:0,GAZI TV HD 
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:gazi_tv_all/playlist.m3u8
-#EXTINF:0,INDEPENDENT TV 
-#EXTGRP:News
-http://tv.dflix.live:8082/12/index.m3u8
-#EXTINF:0,Jagoroni IPTV
-#EXTGRP:Bangla
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
-#EXTINF:0,JAMUNA TV 
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:jamuna_tv_all/playlist.m3u8
-#EXTINF:0,Joy Jatra TV
-#EXTGRP:Bangla
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
-#EXTINF:0,Ktv bangla HD 
-#EXTGRP:Bangla
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
-#EXTINF:0,MAASRANGA TV HD 
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:maasranga_all/playlist.m3u8
-#EXTINF:0,Magic Bangla IPTV 
-#EXTGRP:Bangla
-http://enaniptv.com/magicbanglatv/1080/index.m3u8
-#EXTINF:0,MOHONA TV
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:mohona_tv_all/playlist.m3u8
-#EXTINF:0,MY TV HD 
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:my_tv_all/playlist.m3u8
-#EXTINF:0,NAGORIK TV HD 
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:nagorik_tv_all/playlist.m3u8
-#EXTINF:0,Nan IPTV 
-#EXTGRP:Bangla
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
-#EXTINF:0,Natun Somoy IPTV
-#EXTGRP:Bangla
-http://server1.jadubd.com/natunTV/natunTV/chunklist_w1287147693.m3u8
-#EXTINF:0,NOKSHI IPTV 
-#EXTGRP:Bangla
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
-#EXTINF:0,NTV 
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:ntv_all/playlist.m3u8
-#EXTINF:0,Onubhuti IPTV 
-#EXTGRP:Bangla
-http://149.28.147.59/live/onuvhuti/index.m3u8
-#EXTINF:0,RANG IPTV 
-#EXTGRP:Bangla
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
-#EXTINF:0,Royal TV
-#EXTGRP:Bangla
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
-#EXTINF:0,RTV HD [BD]
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:rtv_all/playlist.m3u8
-#EXTINF:0,SA TV HD [BD]
-#EXTGRP:Bangla
-https://ott.bingebd.com:443/live/ngrp:sa_tv_all/playlist.m3u8
-#EXTINF:0,TBN 24 USA IPTV [BD]
-#EXTGRP:Bangla
-http://fingerme.dg21bd.com/TBN24/index.m3u8?@amarnettv.live
-#EXTINF:0,Varendra TV [BD]
-#EXTGRP:Bangla
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
-#EXTINF:0,ATN NEWS [BD]
-#EXTGRP:News
-https://ott.bingebd.com:443/live/ngrp:atn_news_all/playlist.m3u8
-#EXTINF:0,DBC NEWS HD [BD]
-#EXTGRP:News
-https://ott.bingebd.com:443/live/ngrp:dbc_news_all/playlist.m3u8
-#EXTINF:0,EKATTOR TV HD [BD]
-#EXTGRP:News
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN" tvg-logo="" group-title="Information",CN
+http://tv.dflix.live:8082/79/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic" tvg-logo="" group-title="Information",National Geographic
+http://tv.dflix.live:8082/35/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anando" tvg-logo="" group-title="Bangla",Anando
+http://tv.dflix.live:8082/16/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian Tv" tvg-logo="" group-title="Bangla",Asian Tv
+http://tv.dflix.live:8082/62/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atn Bangla" tvg-logo="" group-title="Bangla",Atn Bangla
+http://tv.dflix.live:8082/2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Talkes" tvg-logo="" group-title="Bangla",Bangla Talkes
+http://tv.dflix.live:8082/91/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Tv" tvg-logo="" group-title="Bangla",Bangla Tv
+http://tv.dflix.live:8082/19/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="" group-title="Bangla",Banglavision
+http://tv.dflix.live:8082/3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi" tvg-logo="" group-title="Bangla",Boishakhi
+http://tv.dflix.live:8082/61/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Btv" tvg-logo="" group-title="Bangla",Btv
+http://tv.dflix.live:8082/53/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="" group-title="Bangla",BTV
+http://tv.dflix.live:8082/84/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Btv sonshod" tvg-logo="" group-title="Bangla",Btv sonshod
+http://tv.dflix.live:8082/88/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel I" tvg-logo="" group-title="Bangla",Channel I
+http://tv.dflix.live:8082/6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh Tv" tvg-logo="" group-title="Bangla",Desh Tv
+http://tv.dflix.live:8082/9/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhoom music" tvg-logo="" group-title="Bangla",Dhoom music
+http://tv.dflix.live:8082/57/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushe Tv" tvg-logo="" group-title="Bangla",Ekushe Tv
+http://tv.dflix.live:8082/65/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="" group-title="Bangla",Gaan Bangla
+http://tv.dflix.live:8082/58/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="" group-title="Bangla",Gtv
+http://tv.dflix.live:8082/1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg-logo="" group-title="Bangla",Jamuna Tv
+http://tv.dflix.live:8082/13/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Machranga" tvg-logo="" group-title="Bangla",Machranga
+http://tv.dflix.live:8082/51/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mohona" tvg-logo="" group-title="Bangla",Mohona
+http://tv.dflix.live:8082/50/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My Tv" tvg-logo="" group-title="Bangla",My Tv
+http://tv.dflix.live:8082/56/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nagorik" tvg-logo="" group-title="Bangla",Nagorik
+http://tv.dflix.live:8082/59/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="" group-title="Bangla",NTV
+http://tv.dflix.live:8082/54/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="" group-title="Bangla",Rtv
+http://tv.dflix.live:8082/14/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ruposhi" tvg-logo="" group-title="Bangla",Ruposhi
+http://tv.dflix.live:8082/95/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SA TV" tvg-logo="" group-title="Bangla",SA TV
+http://tv.dflix.live:8082/15/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangit Bangla" tvg-logo="" group-title="Bangla",Sangit Bangla
+http://tv.dflix.live:8082/96/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoom" tvg-logo="" group-title="Hindi",Zoom
+http://tv.dflix.live:8082/60/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9xM" tvg-logo="" group-title="Hindi",9xM
+http://tv.dflix.live:8082/48/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Flix" tvg-logo="" group-title="Hindi",And Flix
+http://tv.dflix.live:8082/78/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Pictures" tvg-logo="" group-title="Hindi",And Pictures
+http://tv.dflix.live:8082/100/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Tv" tvg-logo="" group-title="Hindi",And Tv
+http://tv.dflix.live:8082/74/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U" tvg-logo="" group-title="Hindi",B4U
+http://tv.dflix.live:8082/45/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movie Plus" tvg-logo="" group-title="Hindi",Movie Plus
+http://tv.dflix.live:8082/97/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="" group-title="Hindi",Nick
+http://tv.dflix.live:8082/55/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OX Dhamkas" tvg-logo="" group-title="Hindi",OX Dhamkas
+http://tv.dflix.live:8082/99/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ptv World" tvg-logo="" group-title="Hindi",Ptv World
+http://tv.dflix.live:8082/92/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="" group-title="Hindi",Sony Max
+http://tv.dflix.live:8082/37/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="" group-title="Hindi",Sony Max
+http://tv.dflix.live:8082/77/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="" group-title="Hindi",Sony Pix
+http://tv.dflix.live:8082/41/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="" group-title="Hindi",Star Plus
+http://tv.dflix.live:8082/38/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="" group-title="Hindi",Star Plus
+http://tv.dflix.live:8082/67/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Action" tvg-logo="" group-title="Hindi",Zee Action
+http://tv.dflix.live:8082/90/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cafe" tvg-logo="" group-title="Hindi",Zee Cafe
+http://tv.dflix.live:8082/69/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee cinema HD" tvg-logo="" group-title="Hindi",Zee cinema HD
+http://tv.dflix.live:8082/76/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Etc" tvg-logo="" group-title="Hindi",Zee Etc
+http://tv.dflix.live:8082/46/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Tv" tvg-logo="" group-title="Hindi",Zee Tv
+http://tv.dflix.live:8082/40/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zing" tvg-logo="" group-title="Hindi",Zing
+http://tv.dflix.live:8082/93/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akash Aath" tvg-logo="" group-title="Indian Bangla",Akash Aath
+http://tv.dflix.live:8082/32/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="" group-title="Indian Bangla",Colors Bangla
+http://tv.dflix.live:8082/43/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD" tvg-logo="" group-title="Indian Bangla",Colors Bangla HD
+http://tv.dflix.live:8082/66/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movie HD" tvg-logo="" group-title="Indian Bangla",Jalsha Movie HD
+http://tv.dflix.live:8082/31/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha Hd" tvg-logo="" group-title="Indian Bangla",Star Jalsha Hd
+http://tv.dflix.live:8082/36/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cenama" tvg-logo="" group-title="Indian Bangla",Zee Bangla Cenama
+http://tv.dflix.live:8082/29/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="" group-title="Indian Bangla",Zee Bangla HD
+http://tv.dflix.live:8082/34/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aljajira" tvg-logo="" group-title="News",Aljajira
+http://tv.dflix.live:8082/89/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="" group-title="News",ATN News
+http://tv.dflix.live:8082/49/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC News" tvg-logo="" group-title="News",BBC News
+http://tv.dflix.live:8082/44/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-logo="" group-title="News",Channel 24
+http://tv.dflix.live:8082/5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC" tvg-logo="" group-title="News",DBC
+http://tv.dflix.live:8082/7/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="" group-title="News",DW
+http://tv.dflix.live:8082/85/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="" group-title="News",Ekattor
 http://tv.dflix.live:8082/11/index.m3u8
-#EXTINF:0,NEWS 24 HD [BD]
-#EXTGRP:News
-https://ott.bingebd.com:443/live/ngrp:news_24_hd_all/playlist.m3u8
-#EXTINF:0,SOMOY TV [BD]
-#EXTGRP:News
-https://ott.bingebd.com:443/live/ngrp:somoy_news_all/playlist.m3u8
-#EXTINF:0, EKUSHEY TV
-#EXTGRP:Bangla
-http://10.16.100.203:8082/bangla/ekusheytv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="" group-title="News",Independent
+http://tv.dflix.live:8082/12/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="" group-title="News",News 24
+http://tv.dflix.live:8082/18/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="" group-title="News",Somoy
+http://tv.dflix.live:8082/17/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports" tvg-logo="" group-title="Sports",PTV Sports
+http://tv.dflix.live:8082/73/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six" tvg-logo="" group-title="Sports",Sony Six
+http://tv.dflix.live:8082/24/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1" tvg-logo="" group-title="Sports",Sony Ten 1
+http://tv.dflix.live:8082/20/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2" tvg-logo="" group-title="Sports",Sony Ten 2
+http://tv.dflix.live:8082/21/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3" tvg-logo="" group-title="Sports",Sony Ten 3
+http://tv.dflix.live:8082/22/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Select 1 HD" tvg-logo="" group-title="Sports",Star Select 1 HD
+http://tv.dflix.live:8082/27/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Select 2 HD" tvg-logo="" group-title="Sports",Star Select 2 HD
+http://tv.dflix.live:8082/28/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo="" group-title="Sports",Star Sports 1 HD
+http://tv.dflix.live:8082/25/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD" tvg-logo="" group-title="Sports",Star Sports 2 HD
+http://tv.dflix.live:8082/26/index.m3u8
