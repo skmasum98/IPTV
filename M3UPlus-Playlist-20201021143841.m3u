@@ -1,9 +1,9 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9xM" tvg-logo="" group-title="working",9xM
+#EXTINF:-1 9xM
 http://tv.dflix.live:8082/48/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akash Aath" tvg-logo="" group-title="working",Akash Aath
+#EXTINF:-1 Akash Aath
 http://tv.dflix.live:8082/32/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aldawat" tvg-logo="" group-title="working",Aldawat
+#EXTINF:-1 Aldawat
 http://tv.dflix.live:8082/87/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aljajira" tvg-logo="" group-title="working",Aljajira
 http://tv.dflix.live:8082/89/index.m3u8
