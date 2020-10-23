@@ -91,8 +91,6 @@ http://tv2.ebox.live:8080/live/sony-pix.m3u8
 http://tv2.ebox.live:8080/live/hbo.m3u8
 #EXTINF:0,colour infinity
 http://tv2.ebox.live:8080/live/color-Infinity.m3u8
-#EXTINF:0,nick
-http://tv2.ebox.live:8080/live/nick.m3u8
 #EXTINF:0,discovery
 http://tv2.ebox.live:8080/live/discovery.m3u8
 #EXTINF:0,animal planet
