@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:0,jamuna tv
-http://tv2..ebox.live:8080/live/ex-jamuna.m3u8
+http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:0,gazi
-http://tv2..ebox.live:8080/live/gazi-tv.m3u8
+http://tv2.ebox.live:8080/live/gazi-tv.m3u8
 #EXTINF:0,bangla vision
-http://tv2..ebox.live:8080/live/banae3.m3u8
+http://tv2.ebox.live:8080/live/banae3.m3u8
 #EXTINF:0,atn bangla
-http://tv2..ebox.live:8080/live/atnbd1.m3u8
+http://tv2.ebox.live:8080/live/atnbd1.m3u8
 #EXTINF:0,chanel i
-http://tv2..ebox.live:8080/live/chi.m3u8
+http://tv2.ebox.live:8080/live/chi.m3u8
 #EXTINF:0,rtv
-http://tv2..ebox.live:8080/live/rtv.m3u8
+http://tv2.ebox.live:8080/live/rtv.m3u8
 #EXTINF:0,baishakhi
-http://tv2..ebox.live:8080/live/boishakhi.m3u8
+http://tv2.ebox.live:8080/live/boishakhi.m3u8
 #EXTINF:0,ekattor
 http://tv2.ebox.live:8080/live/ekattor1.m3u8
 #EXTINF:0,news 24
