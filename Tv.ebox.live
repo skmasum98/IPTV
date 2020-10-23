@@ -5,24 +5,12 @@ http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 http://tv2.ebox.live:8080/live/gazi-tv.m3u8
 #EXTINF:0,bangla vision
 http://tv2.ebox.live:8080/live/banae3.m3u8
-#EXTINF:0,atn bangla
-http://tv2.ebox.live:8080/live/atnbd1.m3u8
 #EXTINF:0,chanel i
 http://tv2.ebox.live:8080/live/chi.m3u8
-#EXTINF:0,rtv
-http://tv2.ebox.live:8080/live/rtv.m3u8
-#EXTINF:0,baishakhi
-http://tv2.ebox.live:8080/live/boishakhi.m3u8
-#EXTINF:0,ekattor
-http://tv2.ebox.live:8080/live/ekattor1.m3u8
-#EXTINF:0,news 24
-http://tv2.ebox.live:8080/live/news24.m3u8
 #EXTINF:0,dbc
 http://tv2.ebox.live:8080/live/dbc.m3u8
 #EXTINF:0,atn news
 http://tv2.ebox.live:8080/live/ex-atnae.m3u8
-#EXTINF:0,gaan bangla
-http://tv2.ebox.live:8080/live/gan.m3u8
 #EXTINF:0,mas 1
 http://tv2.ebox.live:8080/live/mass.m3u8
 #EXTINF:0,maasranga
