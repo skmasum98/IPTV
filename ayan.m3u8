@@ -126,3 +126,6 @@ http://103.205.133.50/hls/andtv.m3u8
 #EXTINF:0,& Pictures
 #EXTGRP:unsorted
 http://103.205.133.50/hls/andpicture.m3u8
+#EXTINF:0,Peace Tv Bangla
+#EXTGRP:unsorted
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
