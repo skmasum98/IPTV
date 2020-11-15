@@ -1,6 +1,13 @@
 #EXTM3U
-#EXTINF:0, DBC NEWS
+#EXTINF:0, 1 DBC NEWS
 http://10.16.100.203:8082/bangla/dbcnews.m3u8
+#EXTINF:0, 2 INDEPENDENT 
+http://10.16.100.203:8082/bangla/news_independent.m3u8
+#EXTINF:0, 3 CHANNEL 24
+http://10.16.100.205/hls/ch24.m3u8
+#EXTINF:0, 4 EKATTOR
+http://10.16.100.205/hls/ekattor_hd_720.m3u8
+
 #EXTINF:0, BOISHAKHI
 http://10.16.100.205/hls/boishakhi_720.m3u8
 #EXTINF:0, BIJOY TV
@@ -11,8 +18,6 @@ http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
 http://10.16.100.203:8082/bangla/digibangla24.m3u8
 #EXTINF:0, GTV
 http://10.16.100.203:8082/bangla/gtv.m3u8
-#EXTINF:0, INDEPENDENT 
-http://10.16.100.203:8082/bangla/news_independent.m3u8
 #EXTINF:0, JAMUNA TV
 http://10.16.100.203:8082/bangla/jamuna_720.m3u8
 #EXTINF:0, ATN BANGLA
@@ -21,14 +26,12 @@ http://10.16.100.203:8082/bangla/atnbangla.m3u8
 http://10.16.100.203:8082/bangla/vision_bangla.m3u8
 #EXTINF:0, BIJOY TV
 http://10.16.100.203:8082/bangla/bijoytv.m3u8
-#EXTINF:0, CHANNEL 24
-http://10.16.100.205/hls/ch24.m3u8
+
 #EXTINF:0, CHANNEL I
 http://10.16.100.203:8082/bangla/i_Channel.m3u8
 #EXTINF:0, CHANNEL 9
 http://10.16.100.203:8082/bangla/CHANNEL9.m3u8
-#EXTINF:0, EKATTOR
-http://10.16.100.205/hls/ekattor_hd_720.m3u8
+
 #EXTINF:0, EKUSHEY TV
 http://10.16.100.203:8082/bangla/ekusheytv.m3u8
 #EXTINF:0, MOHONA TV
