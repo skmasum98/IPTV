@@ -45,40 +45,36 @@ http://10.16.100.203:8082/bangla/TV_R.m3u8
 http://10.16.100.205/hls/my_tv_720.m3u8
 #EXTINF:0, 23 Duronto
 http://10.16.100.201/hindi/duronto_720_cm.m3u8
-
-
-
-
-#EXTINF:0, Music 1 Gaan Bangla
-http://10.16.100.205/hls/gaanbangla_ctg.m3u8
-#EXTINF:0, Music 2 Dhoom music
-http://10.16.100.201/hindi/dhoom_music.m3u8
-
-#EXTINF:0, Sports 1 Star Sports2
-http://10.16.100.207:8082/sports/starsports2.m3u8
-#EXTINF:0, Sports 2Star Sports
-http://10.16.100.201/hindi/bdsp2in.m3u8
-#EXTINF:0, Sports 3 Sony Ten2
-http://10.16.100.207:8082/sports/cm_sonyten2.m3u8
-#EXTINF:0, Sports 4 Sony Ten 3
-http://10.16.100.201/hindi/cm_sonyten3.m3u8
-
-#EXTINF:0, Zee Cinema
-http://10.16.100.204/hls/zee_cinema_720.m3u8
-#EXTINF:0, Color Bangla
+Indian bangla
+#EXTINF:0, 41 Color Bangla
 http://10.16.100.205/hls/colorsbd480.m3u8
-#EXTINF:0, Sony Aath
+#EXTINF:0, 42 Sony Aath
 http://10.16.100.204/hls/sony_aath.m3u8
-#EXTINF:0, Akash Aath
+#EXTINF:0, 43 Akash Aath
 http://10.16.100.204/hls/akash_aath_720.m3u8
-#EXTINF:0, Star Jalsha
+#EXTINF:0, 44 Star Jalsha
 http://10.16.100.204/hls/star_jalsha.m3u8
-#EXTINF:0, Zee Bangla
+#EXTINF:0, 45 Zee Bangla
 http://10.16.100.204/hls/zee_bangla_720.m3u8
-#EXTINF:0, Discovery
-http://otv.ftpbd.net/streams/121/index.m3u8
+Music 
+#EXTINF:0, 51 Gaan Bangla
+http://10.16.100.205/hls/gaanbangla_ctg.m3u8
+#EXTINF:0, 52 Dhoom music
+http://10.16.100.201/hindi/dhoom_music.m3u8
+Sports 
+#EXTINF:0, 71 Star Sports2
+http://10.16.100.207:8082/sports/starsports2.m3u8
+#EXTINF:0, 72 Star Sports
+http://10.16.100.201/hindi/bdsp2in.m3u8
+#EXTINF:0, 73 Sony Ten2
+http://10.16.100.207:8082/sports/cm_sonyten2.m3u8
+#EXTINF:0, 74 Sony Ten 3
+http://10.16.100.201/hindi/cm_sonyten3.m3u8
+Movie
+#EXTINF:0, 90 Zee Cinema
+http://10.16.100.204/hls/zee_cinema_720.m3u8
 
-#EXTINF:0, Peace Tv
+#EXTINF:0, 101Peace Tv
 http://10.16.100.207:8082/sports/peacetv.m3u8
-#EXTINF:0, Aljazira
+#EXTINF:0, 110Aljazira
 http://10.16.100.204/hls/alja-zeera.m3u8
