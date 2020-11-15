@@ -73,8 +73,8 @@ http://10.16.100.201/hindi/cm_sonyten3.m3u8
 Movie
 #EXTINF:0, 90 Zee Cinema
 http://10.16.100.204/hls/zee_cinema_720.m3u8
-
-#EXTINF:0, 101Peace Tv
+Others 
+#EXTINF:0, 101 Peace Tv
 http://10.16.100.207:8082/sports/peacetv.m3u8
-#EXTINF:0, 110Aljazira
+#EXTINF:0, 110 Aljazira
 http://10.16.100.204/hls/alja-zeera.m3u8
