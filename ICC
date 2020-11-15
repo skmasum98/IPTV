@@ -7,6 +7,10 @@ http://10.16.100.203:8082/bangla/news_independent.m3u8
 http://10.16.100.205/hls/ch24.m3u8
 #EXTINF:0, 4 EKATTOR
 http://10.16.100.205/hls/ekattor_hd_720.m3u8
+#EXTINF:0, 5 NEWS 24
+http://10.16.100.203:8082/bangla/24newshd_720.m3u8
+#EXTINF:0, 6 SOMOY TV
+http://10.16.100.205/hls/somoy_tv.m3u8
 
 #EXTINF:0, BOISHAKHI
 http://10.16.100.205/hls/boishakhi_720.m3u8
@@ -38,12 +42,9 @@ http://10.16.100.203:8082/bangla/ekusheytv.m3u8
 http://10.16.100.205/hls/mohona_tv_720.m3u8
 #EXTINF:0, NTV
 http://10.16.100.205/hls/ntv_b_720.m3u8
-#EXTINF:0, NEWS 24
-http://10.16.100.203:8082/bangla/24newshd_720.m3u8
 #EXTINF:0, RTV
 http://10.16.100.203:8082/bangla/TV_R.m3u8
-#EXTINF:0, SOMOY TV
-http://10.16.100.205/hls/somoy_tv.m3u8
+
 #EXTINF:0, MY TV
 http://10.16.100.205/hls/my_tv_720.m3u8
 #EXTINF:0, Duronto
