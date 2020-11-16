@@ -6,6 +6,7 @@ http://10.16.100.203:8082/bangla/news_independent.m3u8
 #EXTINF:0, 3 CHANNEL 24
 http://10.16.100.205/hls/ch24.m3u8
 #EXTINF:0, 4 EKATTOR
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
 http://tv.dflix.live:8082/11/tracks-v1a1/mono.m3u8
 #EXTINF:0, 5 NEWS 24
 http://10.16.100.203:8082/bangla/24newshd_720.m3u8
