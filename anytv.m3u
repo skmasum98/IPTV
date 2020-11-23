@@ -1,24 +1,25 @@
 #EXTM3U
-#EXTINF:0, 1 
-
-#EXTINF:0, 2 
-
-#EXTINF:0, 3 
-
-#EXTINF:0, 4 
-
-#EXTINF:0, 5 
-
+#EXTINF:0, 1 Discovery Bangla
+https://ccntv.anytv.live/discoverybangla/index.m3u8
+#EXTINF:0, 2 HBO
+https://ccntv.anytv.live/hbo/index.m3u8
+#EXTINF:0, 3 Aljazira
+https://ccntv.anytv.live/alja/index.m3u8
+#EXTINF:0, 4 Somoy
+https://ccntv.anytv.live/somoy/index.m3u8
+#EXTINF:0, 5 Jamuna
+https://ccntv.anytv.live/jamuna/index.m3u8
 #EXTINF:0, 6 
-
+https://ccntv.anytv.live/starjalsha/index.m3u8
 #EXTINF:0, 7 
-
+https://ccntv.anytv.live/sonyaath/index.m3u8
 #EXTINF:0, 8 
-
+https://ccntv.anytv.live/colorsbangla/index.m3u8
 #EXTINF:0, 9 
-
+https://ccntv.anytv.live/nick/index.m3u8
 #EXTINF:0, 10 
-
+https://ccntv.anytv.live/zeebangcine/index.m3u8
 #EXTINF:0, 11 
-
-#EXTINF:0, 
+https://ccntv.anytv.live/jalshamovise/index.m3u8
+#EXTINF:0, 12
+https://ccntv.anytv.live/starbharat/index.m3u8
