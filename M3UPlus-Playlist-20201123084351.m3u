@@ -1,0 +1,53 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aljazira" tvg-logo="" group-title="anytv",Aljazira
+https://ccntv.anytv.live/alja/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Flix" tvg-logo="" group-title="anytv",And Flix
+https://ccntv.anytv.live/flix/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atn News" tvg-logo="" group-title="anytv",Atn News
+https://ccntv.anytv.live/atnnews/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Color Bangla" tvg-logo="" group-title="anytv",Color Bangla
+https://ccntv.anytv.live/colorsbangla/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhoom" tvg-logo="" group-title="anytv",Dhoom
+https://ccntv.anytv.live/dhoom/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Bangla" tvg-logo="" group-title="anytv",Discovery Bangla
+https://ccntv.anytv.live/discoverybangla/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="" group-title="anytv",HBO
+https://ccntv.anytv.live/hbo/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsa Movie" tvg-logo="" group-title="anytv",Jalsa Movie
+https://ccntv.anytv.live/jalshamovise/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna" tvg-logo="" group-title="anytv",Jamuna
+https://ccntv.anytv.live/jamuna/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mohona" tvg-logo="" group-title="anytv",Mohona
+https://ccntv.anytv.live/mohona/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="" group-title="anytv",Nick
+https://ccntv.anytv.live/nick/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="" group-title="anytv",Somoy
+https://ccntv.anytv.live/somoy/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony" tvg-logo="" group-title="anytv",Sony
+https://ccntv.anytv.live/sony/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony max" tvg-logo="" group-title="anytv",Sony max
+https://ccntv.anytv.live/sonymax/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max2" tvg-logo="" group-title="anytv",Sony Max2
+https://ccntv.anytv.live/sonymax2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Sab" tvg-logo="" group-title="anytv",Sony Sab
+https://ccntv.anytv.live/sonysab/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1" tvg-logo="" group-title="anytv",Sony Ten 1
+https://ccntv.anytv.live/ten1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold" tvg-logo="" group-title="anytv",Star Gold
+https://ccntv.anytv.live/stargold/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsa" tvg-logo="" group-title="anytv",Star Jalsa
+https://ccntv.anytv.live/starjalsha/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="" group-title="anytv",Star Plus
+https://ccntv.anytv.live/starplus/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1" tvg-logo="" group-title="anytv",Star Sports 1
+https://ccntv.anytv.live/starsp1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2" tvg-logo="" group-title="anytv",Star Sports 2
+https://ccntv.anytv.live/starsp2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star varot" tvg-logo="" group-title="anytv",Star varot
+https://ccntv.anytv.live/starbharat/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="" group-title="anytv",Zee Bangla Cinema
+https://ccntv.anytv.live/zeebangcine/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Tv" tvg-logo="" group-title="anytv",Zee Tv
+https://ccntv.anytv.live/zeetv/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoom" tvg-logo="" group-title="anytv",Zoom
+https://ccntv.anytv.live/zoom/index.m3u8
