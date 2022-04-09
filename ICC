@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0, 1 DBC NEWS
-http://10.16.100.203:8082/bangla/dbcnews.m3u8
+http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
 #EXTINF:0, 2 INDEPENDENT 
 http://10.16.100.203:8082/bangla/news_independent.m3u8
 #EXTINF:0, 3 CHANNEL 24
@@ -22,13 +22,13 @@ http://10.16.100.205/hls/boishakhi_720.m3u8
 #EXTINF:0, 10 BIJOY TV
 http://10.16.100.203:8082/bangla/bijoytv.m3u8
 #EXTINF:0, 11 BANGLA TV
-http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+http://10.16.100.245/hindi/b@ngla_tv_1stop.m3u8
 #EXTINF:0, 12 DIGI BANGLA
 http://10.16.100.203:8082/bangla/digibangla24.m3u8
 #EXTINF:0, 13 GTV
 http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:0, 14 ATN BANGLA
-http://10.16.100.203:8082/bangla/atnbangla.m3u8
+http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
 #EXTINF:0, 15 BANGLAVISION
 http://10.16.100.203:8082/bangla/vision_bangla.m3u8
 #EXTINF:0, 16 BIJOY TV
@@ -49,6 +49,10 @@ http://10.16.100.205/hls/my_tv_720.m3u8
 http://10.16.100.201/hindi/duronto_720_cm.m3u8
 #EXTINF:0, 24 DEEPTO TV
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
+#EXTINF:0, 25 Asian Tv
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
+#EXTINF:0, 26 At news
+http://10.16.100.245/hindi/atNnews_1st0p.m3u8
 
 Indian bangla
 #EXTINF:0, 41 Color Bangla
