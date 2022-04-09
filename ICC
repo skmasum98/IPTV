@@ -5,8 +5,8 @@ http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
 http://10.16.100.203:8082/bangla/news_independent.m3u8
 #EXTINF:0, 3 CHANNEL 24
 http://10.16.100.245/hindi/channeL24_1st0p.m3u8
-#EXTINF:0, 4 EKATTOR Kitv
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
+#EXTINF:0, 4 EKATTOR 
+http://103.127.92.38:8080/live/ajob/baksho/28.m3u8
 #EXTINF:0, 4 EKATTOR Dflix
 http://tv.dflix.live:8082/11/tracks-v1a1/mono.m3u8
 #EXTINF:0, 5 NEWS 24
