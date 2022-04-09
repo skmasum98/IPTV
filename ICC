@@ -81,13 +81,24 @@ http://10.16.100.245/hindi/Tsport$local.m3u8
 #EXTINF:0, 70.1 GTV
 http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
 #EXTINF:0, 71 Star Sports2
-http://10.16.100.207:8082/sports/starsports2.m3u8
+http://10.16.100.207:8082/sports/st@r$port$2twoHD.m3u8
 #EXTINF:0, 72 Star Sports
-http://10.16.100.201/hindi/bdsp2in.m3u8
-#EXTINF:0, 73 Sony Ten2
-http://10.16.100.207:8082/sports/cm_sonyten2.m3u8
-#EXTINF:0, 74 Sony Ten 3
-http://10.16.100.201/hindi/cm_sonyten3.m3u8
+http://10.16.100.207:8082/sports/starsp0rt$1oneHD.m3u8
+#EXTINF:0, 73 Sony Ten1
+http://10.16.100.207:8082/sports/s0nytEn_1onehd.m3u8
+#EXTINF:0, 74 Sony Ten 2
+http://10.16.100.207:8082/sports/sonyTen2_twohd.m3u8
+#EXTINF:0, 75 PTV Sports
+http://10.16.100.245/hindi/pTvSp0rts.m3u8
+#EXTINF:0, 76 Sony Six
+http://10.16.100.207:8082/sports/s0ny6six.m3u8
+#EXTINF:0, 77 Sony Ten 3
+http://10.16.100.207:8082/sports/s0ny_ten3three.m3u8
+#EXTINF:0, 78 Select 1
+http://10.16.100.207:8082/sports/ssselecthd1one.m3u8
+#EXTINF:0, 79 Select 2
+http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
+
 Movie
 #EXTINF:0, 90 &Flix
 https://ccntv.anytv.live/flix/index.m3u8
