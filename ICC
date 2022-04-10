@@ -68,6 +68,8 @@ http://10.16.100.245/hindi/akash8_1stop.m3u8
 http://10.16.100.204:8082/hls/st@rj@lsha.m3u8
 #EXTINF:0, 45 Zee Bangla
 http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
+#EXTINF:0, 45.1 Zee Bangla
+http://103.55.144.46/hls/zeebanglahd.m3u8
 Music 
 #EXTINF:0, 51 Gaan Bangla
 http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
