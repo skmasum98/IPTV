@@ -18,7 +18,7 @@ http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
 #EXTINF:0, 9 BOISHAKHI
 http://10.16.100.203:8082/bangla/boishakhi.m3u8
 #EXTINF:0, 10 BIJOY TV
-http://103.70.140.27:8080/hls/bijoytv.m3u8
+http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
 #EXTINF:0, 11 BANGLA TV
 http://10.16.100.245/hindi/b@ngla_tv_1stop.m3u8
 #EXTINF:0, 12 DIGI BANGLA
