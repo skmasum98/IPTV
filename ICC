@@ -6,7 +6,7 @@ http://103.55.144.46/hls/indepen.m3u8
 #EXTINF:0, 3 CHANNEL 24
 http://10.16.100.245/hindi/channeL24_1st0p.m3u8
 #EXTINF:0, 4 EKATTOR 
-http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=73ff8c3559e4e6b361dc9f1cc435f648c25b313d-30d7151aff2d620b73c9d0ff5dfcee40-1650489534-1650478734
+http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
 #EXTINF:0, 5 NEWS 24
 http://10.16.100.208:8082/hindi/new$_24fouR_1st0p.m3u8
 #EXTINF:0, 6 SOMOY TV
