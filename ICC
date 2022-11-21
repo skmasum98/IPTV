@@ -56,7 +56,7 @@ http://10.16.100.245/hindi/de$htv_1st0p.m3u8
 #EXTINF:0, 28 Nagorik Tv
 http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
 #EXTINF:0, 29 SA Tv
-http://10.16.100.245/hindi/s@tv_1st0p.m3u8
+http://208.86.19.13:81/613.stream/index.m3u8
 Indian bangla
 #EXTINF:0, 41 Color Bangla
 http://10.16.100.204:8082/hls/col0rsb@ngla.m3u8
