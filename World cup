@@ -3,3 +3,13 @@
 http://103.127.93.82:8234/Ttv/tracks-v1a1/mono.m3u8
 #EXTINF:0, 2 world Cup 
 http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+#EXTINF:0, 3 world Cup 
+http://10.10.10.2/live/fnffeed1001/index.m3u8
+#EXTINF:0, 4 world Cup 
+http://10.10.10.2/live/fnffeed1002/index.m3u8
+#EXTINF:0, 5 world Cup 
+http://10.10.10.2/live/fnffeed1003/index.m3u8
+#EXTINF:0, 6 world Cup 
+http://10.10.10.2/live/fnffeed1004/index.m3u8
+#EXTINF:0, 6 world Cup 
+http://10.10.10.2/live/fnffeed1005/index.m3u8
