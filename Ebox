@@ -1,10 +1,15 @@
 #EXTM3U
 #EXTINF:0,jamuna tv
+http://live.hoihulloor.com/live/hull1000/index.m3u8:
+http://live.hoihulloor.com/live/somoy/index.m3u8
+#EXTINF:0,Anada Tv
+http://live.hoihulloor.com/live/anandatv/index.m3u8
+#EXTINF:0,jamuna tv
 http://tv.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:0,gazi
 http://tv.ebox.live:8080/live/gazi-tv.m3u8
 #EXTINF:0,bangla vision
-http://tv.ebox.live:8080/live/banae3.m3u8
+http://live.hoihulloor.com/live/banglavision/index.m3u8
 #EXTINF:0,atn bangla
 http://tv.ebox.live:8080/live/atnbd1.m3u8
 #EXTINF:0,chanel i
@@ -16,7 +21,7 @@ http://tv.ebox.live:8080/live/boishakhi.m3u8
 #EXTINF:0,ekattor
 http://tv.ebox.live:8080/live/ekattor1.m3u8
 #EXTINF:0,news 24
-http://tv.ebox.live:8080/live/news24.m3u8
+http://live.hoihulloor.com/live/channel24/index.m3u8
 #EXTINF:0,dbc
 http://tv.ebox.live:8080/live/dbc.m3u8
 #EXTINF:0,atn news
@@ -29,8 +34,8 @@ http://tv.ebox.live:8080/live/mass.m3u8
 http://tv.ebox.live:8080/live/maasranga.m3u8
 #EXTINF:0,chanel 9
 http://tv.ebox.live:8080/live/channel9.m3u8
-#EXTINF:0,sony six
-http://tv.ebox.live:8080/live/sonysix.m3u8
+#EXTINF:0,somoy
+http://live.hoihulloor.com/live/somoy/index.m3u8
 #EXTINF:0,sony espn
 http://tv.ebox.live:8080/live/sonyespn.m3u8
 #EXTINF:0,sony ten 1
