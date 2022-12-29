@@ -97,4 +97,9 @@ http://12.1.1.1:8082/SonyPix/tracks-v1a1/mono.m3u8?token=ad03be8ef219f437082fff8
 http://12.1.1.1:8082/Colors-Cineplex/tracks-v1a1/mono.m3u8?token=f2f3036b6652eea43ae9669b46fc91fc55620f4b-98440c28b71f34b9f1542928e77e5e74-1672355133-1672344333
 #EXTINF:-1, 49 Animal Planet
 http://12.1.1.1:8082/Animal_Planet/tracks-v1a1/mono.m3u8?token=392ecd7e14962367665c5325596089b3a2028160-76384ceca83c2f48e1f3955f385bbeaa-1672355243-1672344443
-#EXTINF:-1, 49 Animal Planet
+#EXTINF:-1, 50 CN
+http://12.1.1.1:8082/Cartoon-Network/tracks-v1a1/mono.m3u8?token=257b0e72ffd6e309b1891c580728312d9278bac1-1ca815f008f0f85c9538f1a9ed48d75e-1672355532-1672344732
+#EXTINF:-1, 51 BTV
+https://www.btvlive.gov.bd:443/streams/82aea63d-b1e6-4fc5-8863-30a211f5b6c0/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_1_playlist.m3u8
+
+
