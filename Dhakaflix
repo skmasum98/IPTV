@@ -83,3 +83,18 @@ http://172.16.50.2:8082/Bbc-Earth/index.m3u8?token=cc3e2bc226466eb57f82ff2855e8f
 http://172.16.50.2:8082/TLC_World/index.m3u8?token=5d41af02b03973341ad970c9e284fe91babc4d62-29a0aff41d8d4dd31fff054ea826f1b5-1672349394-1672338594
 #EXTINF:-1, 42 Aljazeera
 http://172.16.50.2:8082/Aljazeera/index.m3u8?token=aab3ec279c9eaa9326cf177d569067eef59c1e06-23cdea095c14c1c0efa5fbb4c4f5ef09-1672349431-1672338631
+#EXTINF:-1, 43 T-sports
+http://live.hoihulloor.com/live/fcfun1000/index.m3u8
+#EXTINF:-1, 44 Jalsha Movie 
+http://12.1.1.1:8082/Jalshamovies/index.m3u8?token=477ddccace205f8ae8965cb22161611b750166d9-df903c77800a69face87195369e480df-1672354702-1672343902
+#EXTINF:-1, 45 Movies Now
+http://12.1.1.1:8082/Movies_Now_2/index.m3u8?token=fdb8402314317f6749fea030c16dcf22f52e55ef-e1300d21b75714c2a9a084161eabf5c1-1672354852-1672344052
+#EXTINF:-1, 46 MNX
+http://12.1.1.1:8082/MNX-HD/index.m3u8?token=9927470e1f711c874e516ccd4b399d6bcab3a107-6af6b38e6f07cc9b9e5471bffdb35565-1672354936-1672344136
+#EXTINF:-1, 47 SONY PIX
+http://12.1.1.1:8082/SonyPix/tracks-v1a1/mono.m3u8?token=ad03be8ef219f437082fff885e616bc73d6ca1ac-583d47936584b23f6ae8e7469cdecd8d-1672355031-1672344231
+#EXTINF:-1, 48 Colors Cineplex
+http://12.1.1.1:8082/Colors-Cineplex/tracks-v1a1/mono.m3u8?token=f2f3036b6652eea43ae9669b46fc91fc55620f4b-98440c28b71f34b9f1542928e77e5e74-1672355133-1672344333
+#EXTINF:-1, 49 Animal Planet
+http://12.1.1.1:8082/Animal_Planet/tracks-v1a1/mono.m3u8?token=392ecd7e14962367665c5325596089b3a2028160-76384ceca83c2f48e1f3955f385bbeaa-1672355243-1672344443
+#EXTINF:-1, 49 Animal Planet
